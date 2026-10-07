@@ -57,6 +57,7 @@ Add a website by reading [CONTRIBUTING.md](CONTRIBUTING.md)
 - [10kb Gallery](https://10kb.neocities.org/about.html) -  art within 10,000 bytes
 - [emuparadise](https://www.emuparadise.me/) - Place to download and play old-school retro video games
 - [tucktools](https://www.tucktools.com/) - Free online tools - Needs JavaScript to work
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ free browser tools: PDF editors, converters, calculators - no uploads, lightweight pages per tool
 - [privado](https://www.privado.com/) - A lightweight search engine that doesn't IP address or searches in any identifiable way
 - [UnitPrice](https://unitprice.org/) - A simple price analysis tool for purchasing bulk goods on Amazon
 - [okaycup](https://okaycup.com/) - A text-based website that compares varieties of coffee k-cup pods
